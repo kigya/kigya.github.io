@@ -324,7 +324,5 @@ media.net, 8CUSC3UJ7, RESELLER
 media.net, 8CUUQ286L, RESELLER
 video.unrulymedia.com, 201313863, RESELLER
 
-# Google AdMob
-google.com, pub-8354246639797148, DIRECT, f08c47fec0942fa0
 yandex.com, 333987207, DIRECT
 yango-ads.com, 333987207, DIRECT
