@@ -163,6 +163,7 @@ bidmachine.io, 200, RESELLER
 triplelift.com, 14699, RESELLER, 6c33edb13117fd86
 bidease.com, bidease_seller_49, RESELLER
 playdigo.com, 2041, RESELLER, 92011346d63d3c30
+playdigo.com, 1965, RESELLER
 xandr.com, 13955, RESELLER, f5ab79cb980f11d1
 pubmatic.com, 165864, RESELLER, 5d62403b186f2ace
 bold-win.com, 1145, RESELLER, 71746737d0bab951
